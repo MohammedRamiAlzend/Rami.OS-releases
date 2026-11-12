@@ -14,9 +14,16 @@
 
 | النظام | الملف |
 |---|---|
+| Windows 10/11 (64-bit) | [Rami.OS-1.0-windows-x64.zip](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases/download/v1.0/Rami.OS-1.0-windows-x64.zip) |
 | Android | [Rami.OS-1.0-android.apk](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases/download/v1.0/Rami.OS-1.0-android.apk) |
 
 كل النسخ: [Releases](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases)
+
+## التشغيل على الويندوز
+1. نزّل ملف الـ zip وفكّ الضغط بمكان ثابت (مثلاً `Documents\Rami.OS`).
+2. شغّل `Rami.OS.App.exe`. ما بدّه تثبيت.
+3. إذا طلع تحذير SmartScreen اضغط **More info ← Run anyway**.
+4. البرنامج بيضل بشريط المهام جنب الساعة، وبتتحكّم فيه بالاختصارات: `Ctrl+Alt+B` استراحة هلأ، `Ctrl+Alt+X` إلغاء، `Ctrl+Alt+S` تأجيل.
 
 ## التثبيت على أندرويد
 1. نزّل ملف الـ APK على الموبايل وافتحه.
