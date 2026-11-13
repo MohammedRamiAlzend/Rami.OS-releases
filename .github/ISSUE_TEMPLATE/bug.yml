@@ -1,0 +1,43 @@
+name: الإبلاغ عن مشكلة
+description: شي مش شغّال متل ما لازم، أو البرنامج سكّر لحاله
+title: "[مشكلة] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: آسف على الإزعاج! هالمعلومات بتساعدني لاقي المشكلة بسرعة.
+  - type: textarea
+    id: what
+    attributes:
+      label: شو صار؟
+      description: شو المشكلة، وشو كنت متوقّع يصير بدالها.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: كيف بتصير؟
+      description: الخطوات اللي بتطلّع المشكلة، خطوة خطوة.
+      placeholder: |
+        1. فتحت صفحة العادات
+        2. كبست «+5» على عادة القراءة
+        3. البرنامج سكّر
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: الجهاز
+      options: [الويندوز, أندرويد]
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: نسخة البرنامج
+      placeholder: "2.1"
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: صور الشاشة
+      description: إذا في صورة بتوضّح المشكلة، اسحبها لهون.
