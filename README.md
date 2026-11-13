@@ -12,12 +12,12 @@
 
 ## التحميل · Download
 
-النسخة الحالية: **2.0**
+النسخة الحالية: **2.1**
 
 | النظام | الملف |
 |---|---|
-| Windows 10/11 (64-bit) — مثبّت | [Rami.OS-2.0-setup.exe](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases/download/v2.0/Rami.OS-2.0-setup.exe) |
-| Android 8 وأحدث | [Rami.OS-2.0-android.apk](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases/download/v2.0/Rami.OS-2.0-android.apk) |
+| Windows 10/11 (64-bit) — مثبّت | [Rami.OS-2.1-setup.exe](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases/download/v2.1/Rami.OS-2.1-setup.exe) |
+| Android 8 وأحدث | [Rami.OS-2.1-android.apk](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases/download/v2.1/Rami.OS-2.1-android.apk) |
 
 كل النسخ: [Releases](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases)
 
@@ -87,7 +87,7 @@
 بياناتك كلها محفوظة على جهازك (SQLite)، وما في حساب ولا إنترنت. الإنترنت بس لما تطلب استيراد رودماب من roadmap.sh.
 
 ## التثبيت على الويندوز
-1. نزّل `Rami.OS-2.0-setup.exe` وشغّله. ما بيطلب صلاحيات مدير، وإذا عندك نسخة قديمة بيحدّثها وبياناتك بتضل.
+1. نزّل `Rami.OS-2.1-setup.exe` وشغّله. ما بيطلب صلاحيات مدير، وإذا عندك نسخة قديمة بيحدّثها وبياناتك بتضل.
 2. إذا طلع تحذير SmartScreen اضغط **More info ← Run anyway**.
 3. كمّل الخطوات، وبيعملك اختصار على سطح المكتب وبقائمة Start.
 4. البرنامج بيضل بشريط المهام جنب الساعة. كبسة يمين على الأيقونة فيها الاستراحة والتأجيل والعادات. والاختصارات: `Ctrl+Alt+B` استراحة هلأ، `Ctrl+Alt+X` إلغاء، `Ctrl+Alt+S` تأجيل، `Ctrl+Alt+K` تخطّي الجاية، `Ctrl+Alt+P` إيقاف / تشغيل.
@@ -95,7 +95,7 @@
 للإزالة: Settings ← Apps ← Rami.OS ← Uninstall.
 
 ## التثبيت على أندرويد
-1. نزّل ملف الـ APK على الموبايل وافتحه. بيتثبّت فوق النسخة 1.0 وبياناتك بتضل.
+1. نزّل ملف الـ APK على الموبايل وافتحه. بيتثبّت فوق النسخة القديمة وبياناتك بتضل.
 2. وافق على "التثبيت من مصادر غير معروفة" إذا طلب منك.
 3. بأول تشغيل اسمح بالإشعارات، واضغط **إعطاء الإذن** حتى يقدر البرنامج يعتّم الشاشة فوق باقي التطبيقات.
 4. تحكّم بالاستراحة من الإشعار (استراحة هلأ، تأجيل، إيقاف، إلغاء)، وسجّل عاداتك من أزرار إشعارات العادات.
@@ -105,3 +105,13 @@
 - على أندرويد لازم تفتح البرنامج مرة بعد كل إعادة تشغيل للموبايل. وبعض الشركات (Xiaomi، Samsung …) ممكن توقّفه بالخلفية لتوفير البطارية، فاستثنيه من توفير البطارية.
 - على أندرويد، التذكير ممكن يتأخر لحد ساعة تقريباً إذا الموبايل مرتاح وشاشته طافية، وبيطلع أول ما تفتح الشاشة.
 - المزامنة بين الكمبيوتر والموبايل لسا مش موجودة: كل جهاز إله بياناته.
+
+## تواصل مع المطوّر
+عندك فكرة، مشكلة، أو سؤال؟ من البرنامج: **تواصل** بالقائمة، أو مباشرة:
+- واتساب: [+963 936 772 884](https://wa.me/963936772884)
+- إيميل: [ramialzend@gmail.com](mailto:ramialzend@gmail.com)
+
+### طلب ميزة أو الإبلاغ عن مشكلة
+الطلبات بتنسجّل كـ [Issues](https://github.com/MohammedRamiAlzend/Rami.OS-releases/issues) هون (بدك حساب GitHub مجاني). من البرنامج: **تواصل ← طلب تعديل**، أو مباشرة:
+- **[اقتراح ميزة](https://github.com/MohammedRamiAlzend/Rami.OS-releases/issues/new?template=feature.yml):** اكتب الفكرة، ليش بتحتاجها، ومثال كيف بتتخيّلها.
+- **[الإبلاغ عن مشكلة](https://github.com/MohammedRamiAlzend/Rami.OS-releases/issues/new?template=bug.yml):** شو صار وشو كنت متوقّع، الخطوات اللي بتطلّعها، الجهاز والنسخة، وصورة للشاشة إذا فيك.
