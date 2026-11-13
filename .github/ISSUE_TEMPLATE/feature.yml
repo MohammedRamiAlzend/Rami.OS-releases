@@ -1,0 +1,33 @@
+name: اقتراح ميزة
+description: فكرة جديدة أو تحسين على شي موجود
+title: "[ميزة] "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: شكراً على اقتراحك! كل ما وضّحت أكتر، كل ما كان أسهل نفّذه.
+  - type: textarea
+    id: idea
+    attributes:
+      label: شو الفكرة؟
+      description: احكي الميزة اللي بدك ياها بجملة أو جملتين.
+      placeholder: "مثلاً: بدي اقدر حط تذكير للعادة كل ساعتين."
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: ليش بتحتاجها؟
+      description: شو المشكلة اللي بتحلّها، أو شو اللي عم تعمله هلأ بطريقة أصعب.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: مثال
+      description: كيف بتتخيّلها؟ خطوات، أو صورة/رسمة إذا عندك (فيك تسحبها لهون).
+  - type: dropdown
+    id: platform
+    attributes:
+      label: على أي جهاز؟
+      options: [الويندوز, أندرويد, الاتنين]
