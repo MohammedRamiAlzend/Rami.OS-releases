@@ -17,7 +17,6 @@
 | النظام | الملف |
 |---|---|
 | Windows 10/11 (64-bit) — مثبّت | [Rami.OS-2.0-setup.exe](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases/download/v2.0/Rami.OS-2.0-setup.exe) |
-| Windows 10/11 (64-bit) — نسخة محمولة | [Rami.OS-2.0-windows-x64.zip](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases/download/v2.0/Rami.OS-2.0-windows-x64.zip) |
 | Android 8 وأحدث | [Rami.OS-2.0-android.apk](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases/download/v2.0/Rami.OS-2.0-android.apk) |
 
 كل النسخ: [Releases](https://github.com/MohammedRamiAlzend/Rami.OS-releases/releases)
@@ -94,8 +93,6 @@
 4. البرنامج بيضل بشريط المهام جنب الساعة. كبسة يمين على الأيقونة فيها الاستراحة والتأجيل والعادات. والاختصارات: `Ctrl+Alt+B` استراحة هلأ، `Ctrl+Alt+X` إلغاء، `Ctrl+Alt+S` تأجيل، `Ctrl+Alt+K` تخطّي الجاية، `Ctrl+Alt+P` إيقاف / تشغيل.
 
 للإزالة: Settings ← Apps ← Rami.OS ← Uninstall.
-
-**النسخة المحمولة (zip):** فكّ الضغط بمكان ثابت وشغّل `Rami.OS.App.exe` مباشرة، بدون تثبيت.
 
 ## التثبيت على أندرويد
 1. نزّل ملف الـ APK على الموبايل وافتحه. بيتثبّت فوق النسخة 1.0 وبياناتك بتضل.
